@@ -1,0 +1,25 @@
+nav ul { list-style-type: none;} 
+nav a { text-decoration: none; padding-right: 100px; position: relative; top: 10px;  }
+nav li {  display: inline; } 
+
+ #room {position: relative;}
+ .updates {background: #E2E8E4; padding: 10px 0px 20px 5px; align-self: flex-end; width: 205px; height: 50px;}
+ 
+ #pics { background: #E2E8E4;}
+ 
+ #contact { background: #E2E8E4;}
+ #contact h1 { padding: 20px;}
+ 
+ #hybrid h1 { padding: 20px;}
+ #hybrid img { padding: 10px 0px 0px 10px;}
+ #hybrid-text { padding: 10px 10px 30px 10px;}
+  
+ #part1 {background: #6EB5C0; }
+  .intro-white {background: #E2E8E4; padding-top: 20px; padding-left: 20px; padding-right: 30px; padding-bottom: 20px; }
+  #clients {background: #6EB5C0; }
+  
+  footer ul { list-style-type: none; text-decoration: none; list-style-type: none;}
+ .footer1 { background: #ffccbb; padding: 20px;}
+ .footer1 ul { background: #6EB5C0; padding: 20px;}
+ 
+ 
